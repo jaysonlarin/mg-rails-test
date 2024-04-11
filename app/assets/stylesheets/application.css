@@ -43,3 +43,7 @@
   outline-style: solid;
   box-shadow: 0 0 0 4px #5a01a7;
 }
+
+.-sort-name { background-color: #dc2f2f; }
+.-sort-amount { background-color: #402a23; }
+.-sort-amount:hover { background-color: #2c2d34 !important; }
